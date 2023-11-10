@@ -24,3 +24,8 @@ To run BMW Driver Simulator, you need to have Python and Pygame installed on you
 
    ```bash
    python bmw_driver_simulator.py
+   ```
+### How to Play
+- Move your mouse to control the car.
+- Avoid other cars coming at you.
+- Try to survive as long as possible!
