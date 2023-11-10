@@ -4,7 +4,7 @@
 
 Simple pygame game where you dodge cars trying to get to work on time! It's infinite - the goal is to see how long you can last as the game speeds up.
 
-![Gameplay Screenshot](url-to-your-image)
+![Gameplay Screenshot]([url-to-your-image](https://github.com/canweffplease/bmw_driver_simulator/blob/main/bmw_driver_simulator/game_screenshot.png))
 
 ### Features
 
