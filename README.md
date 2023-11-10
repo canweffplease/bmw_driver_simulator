@@ -1,0 +1,26 @@
+# BMW Driver Simulator
+
+## Reckless Driving Simulator
+
+Simple pygame game where you dodge cars trying to get to work on time! It's infinite - the goal is to see how long you can last as the game speeds up.
+
+![Gameplay Screenshot](url-to-your-image)
+
+### Features
+
+- Infinite gameplay: The longer you survive, the faster the game gets.
+- Simple controls: Use your mouse to dodge incoming cars.
+- Dynamic difficulty: The game's speed increases with time, presenting an ever-growing challenge.
+- Score tracking: Keep track of how long you've lasted in each game.
+
+### Installation
+
+To run BMW Driver Simulator, you need to have Python and Pygame installed on your computer.
+
+1. Install Python from [python.org](https://www.python.org/downloads/).
+2. Install Pygame by running `pip install pygame` in your terminal or command prompt.
+3. Download or clone this repository to your local machine.
+4. Navigate to the downloaded folder and run the game using Python.
+
+   ```bash
+   python bmw_driver_simulator.py
