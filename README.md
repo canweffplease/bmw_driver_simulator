@@ -22,7 +22,7 @@ To run BMW Driver Simulator, you need to have Python and Pygame installed on you
 3. Download or clone this repository to your local machine.
 4. Navigate to the downloaded folder and run the game using Python.
 
-   ```python
+   ```bash
    python bmw_driver_simulator.py
    ```
 ### How to Play
